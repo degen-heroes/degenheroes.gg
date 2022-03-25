@@ -14,6 +14,7 @@ gem install bundler jekyll
 After installing jekyll, enter the working directory and start the jekyll server:
 
 ```
+bundle
 bundle exec jekyll serve
 ```
 
@@ -27,5 +28,10 @@ then perform this additional step:
 bundle add webrick
 ```
 
+# Using Jekyll
+
+* Currently using the [no-style-please][theme-used] theme.
+
 [dfk]: https://defikingdoms.com
 [dh]: https://discord.gg/degenheroes
+[theme-used]: https://github.com/riggraz/no-style-please
