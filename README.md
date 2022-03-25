@@ -30,7 +30,7 @@ bundle add webrick
 
 # Using Jekyll
 
-* Currently using the [no-style-please][theme-used] theme.
+* Check Jekyll's documentation
 
 [dfk]: https://defikingdoms.com
 [dh]: https://discord.gg/degenheroes
