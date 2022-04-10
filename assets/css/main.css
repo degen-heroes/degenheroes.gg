@@ -4007,41 +4007,6 @@ a:hover {
     position: relative;
 }
 
-.stream-item__media a:before {
-    content: "";
-}
-
-.stream-item__media a::before {
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    -webkit-transition: all 0.3s linear;
-    -o-transition: all 0.3s linear;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    position: absolute;
-    top: 0;
-    left: 0;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: 100%;
-    color: #fff;
-    font-size: 40px;
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.3s linear;
-}
-
-.stream-item__media a:hover::before,
-.stream-item__media a:focus::before,
-.stream-item__media a:active::before,
-.stream-item__media a.nice-select.open::before {
-    opacity: 1;
-}
-
 .stream-item__media a img {
     width: 100%;
 }
@@ -4081,16 +4046,6 @@ a:hover {
     line-height: 1.33;
 }
 
-.stream-item__status::before {
-    display: inline-block;
-    width: 8px;
-    height: 8px;
-    margin-right: 6px;
-    border-radius: 50%;
-    background: #F00000;
-    content: '';
-}
-
 .stream-item__count {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
@@ -4111,10 +4066,6 @@ a:hover {
     font-style: normal;
     font-weight: normal;
     line-height: 1.33;
-}
-
-.stream-item__count:before {
-    content: "";
 }
 
 .stream-item__count::before {
@@ -4138,7 +4089,7 @@ a:hover {
     padding-bottom: 5px;
 }
 
-.stream-item__nicname {
+.stream-item__description {
     color: #767676;
     font-size: 14px;
     font-style: normal;
