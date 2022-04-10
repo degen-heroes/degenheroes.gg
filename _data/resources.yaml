@@ -1,0 +1,9 @@
+#
+# Resources screenshots are in folder /assets/resource-screenshots
+# Resource screenshot size should be max width: 470px
+#
+
+- name: "DFK Analytics"
+  image: dfkanalytics.jpg
+  description: "Analysis of the hero sales market with advanced filtering and hero attributes."
+  website: "https://dfkanalytics.com/"

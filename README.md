@@ -28,10 +28,15 @@ then perform this additional step:
 bundle add webrick
 ```
 
+# Template
+
+[Template Live View][template]
+
 # Using Jekyll
 
 * Check Jekyll's documentation
 
+[template]: https://preview.themeforest.net/item/teamhost-gaming-community-html/full_screen_preview/36322276
 [dfk]: https://defikingdoms.com
 [dh]: https://discord.gg/degenheroes
 [theme-used]: https://github.com/riggraz/no-style-please
