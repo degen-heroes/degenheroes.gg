@@ -1,0 +1,5 @@
+# Please include a 360x223 image of the resource
+- name: "DFK Analytics"
+  image: dfkanalytics.jpg
+  description: "Analysis of the hero sales market with advanced filtering and hero attributes."
+  website: "https://dfkanalytics.com/"
