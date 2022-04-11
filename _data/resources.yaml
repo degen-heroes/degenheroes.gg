@@ -4,7 +4,7 @@
 #
 
 - name: "DFK Analytics"
-  image: "dfkanalytics.jpg"
+  image: "dfkanalytics.png"
   description: "Analysis of the hero sales market with advanced filtering and hero attributes."
   website: "https://dfkanalytics.com/"
 - name: "DFK Tracker"
