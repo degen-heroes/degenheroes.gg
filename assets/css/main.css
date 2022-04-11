@@ -3988,6 +3988,7 @@ a:hover {
     padding: 10px;
     border-radius: 10px;
     background: #fff;
+    height: 100%;
 }
 
 .stream-item__box {
