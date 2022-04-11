@@ -21,7 +21,7 @@
   website: "https://dfking.co/"
 - name: "DFK Dashboard"
   image: "dfk-dashboard.png"
-  description: "Analytics of the Kingdom, all the indexes and charts you'll need to monitor the game"
+  description: "Analytics of the Kingdom, all the indexes and charts you'll need to monitor the game."
   website: "https://harmony-dashboard-antonyip.vercel.app/dfk"
 - name: "Knock Turn Alley"
   image: "knockturnalley.png"
