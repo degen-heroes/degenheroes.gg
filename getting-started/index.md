@@ -15,7 +15,7 @@ Heroes are a primary mechanism of DFK's play-to-earn model. Heroes collect rewar
 * Gardens 75%
 * Heroes 25%
 
-> [This guide, will help you buy your first hero, on ][buying-first-hero].
+> 👉 [This guide, will help you buy your first hero][buying-first-hero].
 
 
 ## Which Garden Should I chose?
