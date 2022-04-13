@@ -4110,7 +4110,20 @@ a:hover {
     line-height: 1.36;
 }
 
+.stream-item__categories {
+    margin-top: 10px;
+}
 
+.stream-item__category {
+    display: inline-block;
+    font-size: 12px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    color: #666;
+    background-color: #F5F5F5;
+    white-space: nowrap;
+    margin: 0 5px 5px 0;
+}
 
 .uk-breadcrumb > * > * {
     font-weight: normal;
