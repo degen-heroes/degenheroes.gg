@@ -1,6 +1,6 @@
 #
 # Resources screenshots are in folder /assets/resource-screenshots
-# Resource screenshot size should be max width: 470px
+# Resource screenshot size should be exactly 512x384px
 #
 
 - name: "DFK Analytics"
