@@ -2,32 +2,57 @@
 # Resources screenshots are in folder /assets/resource-screenshots
 # Resource screenshot size should be exactly 512x384px
 #
+# Available Categories:
+# Tavern Alternatives
+# Portfolio Trackers
+# Leaderboards
+# Analytics / Metrics
+# remium Services
+# Education / Analysis
+# Guilds
+# Youtube channels
+# Third Party Markets
 
 - name: "DFK Analytics"
   image: "dfkanalytics.png"
   description: "Analysis of the hero sales market with advanced filtering and hero attributes."
   website: "https://dfkanalytics.com/"
+  categories:
+    - "Tavern Alternatives"
 - name: "DFK Tracker"
   image: "dfktracker.png"
   description: "Track your performance on the kingdom, view the yield of your quests heroes and many more."
   website: "https://dfktracker.app/"
+  categories:
+    - "Portfolio Trackers"
 - name: "Kingdom Watch"
   image: "kingdomwatch.png"
   description: "Get the value of your DFK portfolio, hero charts and monitor developers' wallets."
   website: "https://kingdom.watch/"
+  categories:
+    - "Portfolio Trackers"
+    - "Analytics / Metrics"
 - name: "DFKing"
   image: "dfking.png"
   description: "Get deep insights into the hero selling market, powerful comparisons and analytics."
   website: "https://dfking.co/"
+  categories:
+    - "Tavern Alternatives"
 - name: "DFK Dashboard"
   image: "dfk-dashboard.png"
   description: "Analytics of the Kingdom, all the indexes and charts you'll need to monitor the game."
   website: "https://harmony-dashboard-antonyip.vercel.app/dfk"
+  categories:
+    - "Analytics / Metrics"
 - name: "Knock Turn Alley"
   image: "knockturnalley.png"
   description: "A platform providing blockchain services such as decentralized escrow, DeX and analysis."
   website: "https://knockturnalley.market/"
+  categories:
+    - "Third Party Markets"
 - name: "foxescrow"
   image: "foxescrow.png"
   description: "A utility intended to trustlessly facilitate trades between buyers and sellers of various on-chain assets."
   website: "https://www.foxescrow.one/"
+  categories:
+    - "Third Party Markets"
