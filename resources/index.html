@@ -33,6 +33,11 @@ layout: default
                           <div class="stream-item__title">{{ resource.name }}</div>
                           <div class="stream-item__description">{{ resource.description }}</div>
                       </div>
+                      <div class="stream-item__categories">
+                        {% for category in resource.categories %}
+                        <span>{{ category }}</span>
+                        {% endfor %}
+                      </div>
                   </div>
               </div>
           </li>
