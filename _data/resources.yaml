@@ -44,6 +44,12 @@
   website: "https://harmony-dashboard-antonyip.vercel.app/dfk"
   categories:
     - "Analytics / Metrics"
+- name: "DFK Adventures"
+  image: "dfkadventures.png"
+  description: "Get hidden hero genetics information and scan the tavern for matches with possible genetic mutations"
+  website: "https://dfk-adventures.herokuapp.com/"
+  categories:
+    - "Analytics / Metrics"
 - name: "Knock Turn Alley"
   image: "knockturnalley.png"
   description: "A platform providing blockchain services such as decentralized escrow, DeX and analysis."
@@ -56,3 +62,4 @@
   website: "https://www.foxescrow.one/"
   categories:
     - "Third Party Markets"
+    - "Tavern Alternatives"
