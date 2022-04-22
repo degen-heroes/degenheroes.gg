@@ -62,6 +62,16 @@
   website: "https://www.foxescrow.one/"
   categories:
     - "Third Party Markets"
+- name: "DFK Tools"
+  image: "dfktools.png"
+  description: "Free and accessible data and tools for DefiKingdoms."
+  website: "https://dfktools.com/"
+  categories:
+    - "Analytics / Metrics"
+- name: "DeFi Toy"
+  image: "defitoy.png"
+  description: "Tavern sales data, with price history for any hero."
+  website: "https://dfk.defitoy.com/#/"
     - "Tavern Alternatives"
 - name: "DFK-professions"
   image: "dfk-professions.png"
