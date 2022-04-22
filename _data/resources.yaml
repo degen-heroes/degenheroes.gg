@@ -13,46 +13,97 @@
 # Youtube channels
 # Third Party Markets
 
-- name: "DFK Analytics"
-  image: "dfkanalytics.png"
-  description: "Analysis of the hero sales market with advanced filtering and hero attributes."
-  website: "https://dfkanalytics.com/"
+- name: 'DFK Analytics'
+  image: 'dfkanalytics.png'
+  description: 'Analysis of the hero sales market with advanced filtering and hero attributes.'
+  website: 'https://dfkanalytics.com/'
   categories:
-    - "Tavern Alternatives"
-- name: "DFK Tracker"
-  image: "dfktracker.png"
-  description: "Track your performance on the kingdom, view the yield of your quests heroes and many more."
-  website: "https://dfktracker.app/"
+    - 'Tavern Alternatives'
+- name: 'DFK Tracker'
+  image: 'dfktracker.png'
+  description: 'Track your performance on the kingdom, view the yield of your quests heroes and many more.'
+  website: 'https://dfktracker.app/'
   categories:
-    - "Portfolio Trackers"
-- name: "Kingdom Watch"
-  image: "kingdomwatch.png"
+    - 'Portfolio Trackers'
+- name: 'Kingdom Watch'
+  image: 'kingdomwatch.png'
   description: "Get the value of your DFK portfolio, hero charts and monitor developers' wallets."
-  website: "https://kingdom.watch/"
+  website: 'https://kingdom.watch/'
   categories:
-    - "Portfolio Trackers"
-    - "Analytics / Metrics"
-- name: "DFKing"
-  image: "dfking.png"
-  description: "Get deep insights into the hero selling market, powerful comparisons and analytics."
-  website: "https://dfking.co/"
+    - 'Portfolio Trackers'
+    - 'Analytics / Metrics'
+- name: 'DFKing'
+  image: 'dfking.png'
+  description: 'Get deep insights into the hero selling market, powerful comparisons and analytics.'
+  website: 'https://dfking.co/'
   categories:
-    - "Tavern Alternatives"
-- name: "DFK Dashboard"
-  image: "dfk-dashboard.png"
+    - 'Tavern Alternatives'
+- name: 'DFK Dashboard'
+  image: 'dfk-dashboard.png'
   description: "Analytics of the Kingdom, all the indexes and charts you'll need to monitor the game."
-  website: "https://harmony-dashboard-antonyip.vercel.app/dfk"
+  website: 'https://harmony-dashboard-antonyip.vercel.app/dfk'
   categories:
-    - "Analytics / Metrics"
-- name: "Knock Turn Alley"
-  image: "knockturnalley.png"
-  description: "A platform providing blockchain services such as decentralized escrow, DeX and analysis."
-  website: "https://knockturnalley.market/"
+    - 'Analytics / Metrics'
+- name: 'Knock Turn Alley'
+  image: 'knockturnalley.png'
+  description: 'A platform providing blockchain services such as decentralized escrow, DeX and analysis.'
+  website: 'https://knockturnalley.market/'
   categories:
-    - "Third Party Markets"
-- name: "foxescrow"
-  image: "foxescrow.png"
-  description: "A utility intended to trustlessly facilitate trades between buyers and sellers of various on-chain assets."
-  website: "https://www.foxescrow.one/"
+    - 'Third Party Markets'
+- name: 'foxescrow'
+  image: 'foxescrow.png'
+  description: 'A utility intended to trustlessly facilitate trades between buyers and sellers of various on-chain assets.'
+  website: 'https://www.foxescrow.one/'
   categories:
-    - "Third Party Markets"
+    - 'Third Party Markets'
+- name: 'The Round Table Guild'
+  image: 'theroundtableguild.png'
+  description: 'A community oriented DefiKingdoms Guild'
+  website: 'https://theroundtableguild.carrd.co/'
+  categories:
+    - 'Guilds'
+- name: 'Jewel Boyz'
+  image: 'jewelboyz.jpg'
+  description: 'A DFK guild by @gglobalcapital team'
+  website: 'https://twitter.com/jewelboyzdfk'
+  categories:
+    - 'Guilds'
+- name: 'One Crosschain Guild [0xG]'
+  image: '0xG.png'
+  description: 'A neutral, free to join, non-financial guild'
+  website: 'https://twitter.com/jewelboyzdfk'
+  categories:
+    - 'Guilds'
+- name: 'Degen Heroes'
+  image: 'degenheroes.png'
+  description: 'A DefiKingdoms Guild comprised of data driven players with an active engineering and data driven team'
+  website: 'https://discord.com/invite/degenheroes'
+  categories:
+    - 'Guilds'
+- name: 'DefiKingdoms Official Youtube Channel'
+  image: 'officialdfkyt.png'
+  description: 'The official DefiKingdoms channel on youtube.'
+  website: 'https://www.youtube.com/c/DefiKingdoms'
+  categories:
+    - 'Youtube channels'
+- name: 'Inner Grove Podcast'
+  image: 'innergrove.png'
+  description: 'Weekly podcast of DefiKingdom content'
+  website: 'https://www.youtube.com/channel/UChEe39RczjmF75lI2Fe8BxA/'
+  categories:
+    - 'Youtube channels'
+    - 'Education / Analysis'
+- name: 'Adventures in Defi Kingdoms'
+  image: 'adfk.png'
+  description: 'A DefiKingdom channel discussing DFK questing and summoning strategies'
+  website: 'https://www.youtube.com/channel/UCEgskSVgL7WBV_cmV-kBt9g'
+  categories:
+    - 'Youtube channels'
+    - 'Education / Analysis'
+- name: "FaultyPoker's summoning channel"
+  image: 'faultypoker.png'
+  description: 'Resident Degen heroes summoner'
+  website: 'https://www.youtube.com/channel/UC-LnMbtHBoUOe9kN1YFSn1w'
+  categories:
+    - 'Youtube channels'
+    - 'Education / Analysis'
