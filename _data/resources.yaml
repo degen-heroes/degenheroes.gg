@@ -71,7 +71,8 @@
 - name: "DeFi Toy"
   image: "defitoy.png"
   description: "Tavern sales data, with price history for any hero."
-  website: "https://dfk.defitoy.com/#/"
+  website: "https://dfk.defitoy.com/"
+  categories:
     - "Tavern Alternatives"
 - name: "DFK-professions"
   image: "dfk-professions.png"
