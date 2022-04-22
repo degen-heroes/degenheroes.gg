@@ -44,6 +44,12 @@
   website: "https://harmony-dashboard-antonyip.vercel.app/dfk"
   categories:
     - "Analytics / Metrics"
+- name: "DFK Adventures"
+  image: "dfkadventures.png"
+  description: "Get hidden hero genetics information and scan the tavern for matches with possible genetic mutations"
+  website: "https://dfk-adventures.herokuapp.com/"
+  categories:
+    - "Analytics / Metrics"
 - name: "Knock Turn Alley"
   image: "knockturnalley.png"
   description: "A platform providing blockchain services such as decentralized escrow, DeX and analysis."
@@ -66,5 +72,10 @@
   image: "defitoy.png"
   description: "Tavern sales data, with price history for any hero."
   website: "https://dfk.defitoy.com/#/"
+    - "Tavern Alternatives"
+- name: "DFK-professions"
+  image: "dfk-professions.png"
+  description: "Explore the genes of your heroes, and match them with other heroes to see their summon chances"
+  website: "https://www.dfk-professions.com/"
   categories:
     - "Analytics / Metrics"
