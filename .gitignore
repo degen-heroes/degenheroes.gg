@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.DS_Store
 vendor
 profession-quests/index.md.backup
 Quests/index.md.backup
