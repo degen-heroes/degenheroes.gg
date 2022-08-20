@@ -277,7 +277,7 @@ async function setupResolveQuests(
     });
     const $p = $('<p/>');
 
-    if (true || canSign) {
+    if (canSign) {
       $p.append($btn);
     }
 
