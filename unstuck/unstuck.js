@@ -277,7 +277,7 @@ async function setupResolveQuests(
     });
     const $p = $('<p/>');
 
-    if (canSign) {
+    if (true || canSign) {
       $p.append($btn);
     }
 
@@ -292,12 +292,14 @@ async function handleResolve(quest, web3) {
     ABI_QUESTS,
     QUEST_CORE_V2_CONTRACT,
   );
+  const accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+  const account = accounts[0];
 
   const [heroId] = quest.heroes;
 
-  await questContract.methods.completeQuest(heroId).call();
-
-  console.log(quest);
+  await questContract.methods.completeQuest(heroId).send({
+    from: account,
+  });
 }
 
 /**
