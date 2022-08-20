@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<h1 class="uk-text-lead">Unstuck Heroes from CrystalVale Quests</h1>
+<p class="small-font">
+  <small
+    >This tool was made by
+    <a class="small-font" href="https://github.com/thanpolas" target="_blank"
+      >thanpolas</a
+    >
+    -
+    <a
+      class="small-font"
+      href="https://github.com/degen-heroes/degenheroes.gg"
+      target="_blank"
+      >source on Github</a
+    >
+  </small>
+</p>
+
+<button id="connect-metamask">Connect Metamask</button>
+<h3
+  id="not-on-dfkchain"
+  class="glyphicon glyphicon-warning-sign alert-danger hide"
+>
+  Please switch to DFK Chain Network!!!
+</h3>
+
+<p id="address"></p>
+
+<div class="hide" id="prompt-start">
+  <div>
+    <label for="input-address">Check a third-party account</label>
+    <input type="text" id="input-address" />
+    <button id="search-by-address">Check Stuck Quests of address</button>
+  </div>
+  <div>
+    <br />
+    <label for="search-enduser">Check your wallet</label>
+    <button id="search-enduser" class="btn btn-success">
+      Check Your Stuck Quests
+    </button>
+  </div>
+</div>
+
+<div id="check-stuck-heroes" class="hide">
+  <div id="check-status"></div>
+  <div id="spinner-check-heroes" class="dots-bars-4"></div>
+
+  <div id="resolve-quests"></div>
+</div>
