@@ -196,6 +196,7 @@ async function findStuckHeroes(heroes, activeQuests, web3) {
       `Found ${stuckHeroes.length} stuck heroes: ${stuckHeroIds.join(', ')}`,
     );
   } else {
+    $('#spinner-check-heroes').hide();
     updateStatus(`No stuck heroes found.`);
   }
 
