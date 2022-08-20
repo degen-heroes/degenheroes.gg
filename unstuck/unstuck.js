@@ -84,6 +84,7 @@ async function checkStuckHeroes(accountAddress, web3) {
     const stuckHeroes = await findStuckHeroes(heroes, activeQuests, web3);
 
     if (!stuckHeroes.length) {
+      $('#spinner-check-heroes').hide();
       return;
     }
 
