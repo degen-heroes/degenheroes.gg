@@ -53,5 +53,18 @@ layout: default
   <div id="check-status"></div>
   <div id="spinner-check-heroes" class="dots-bars-4"></div>
 
-  <div id="resolve-quests"></div>
+  <div id="resolve-stuck-quests" class="hide">
+    <h3>WARNING - READ Carefully</h3>
+    <p>
+      This button will clean all your clears all quests from all queues, then
+      goes through and checks every Hero the player owns. If the Hero is set to
+      questing, it will clear them out of that and set their stamina to 0.
+    </p>
+    <p>
+      So make sure your wallet only has stuck quests so your normal ones will
+      not be terminated prematurely
+    </p>
+    <button id="resolve-stuck-quests-button">Clean All Quests</button>
+  </div>
+  <div id="stuck-quests-report"></div>
 </div>
