@@ -274,7 +274,7 @@ async function setupResolveQuests(
 
   const canSign = accountAddress === account;
 
-  if (true || canSign) {
+  if (canSign) {
     $('#resolve-stuck-quests').removeClass('hide');
   }
 
