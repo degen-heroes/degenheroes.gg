@@ -131,8 +131,8 @@
   categories:
     - 'Youtube channels'
     - 'Education / Analysis'
-- name: "DEX Screener"
-  image: ''
+- name: 'DEX Screener'
+  image: 'dexscreener.png'
   description: 'Seek out DEX Liquidity pools on Harmony'
   website: 'https://dexscreener.com/harmony'
   categories:
